@@ -1,0 +1,1 @@
+"use strict";function _classCallCheck(a,b){if(!(a instanceof b))throw new TypeError("Cannot call a class as a function")}var Circle=function a(b){_classCallCheck(this,a),this.color=b};

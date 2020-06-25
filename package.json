@@ -1,0 +1,25 @@
+{
+  "name": "web_3d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel ./public/src -d ./public/lib -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Jinsujin@github.com/Jinsujin/web_3D.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jinsujin/web_3D/issues"
+  },
+  "homepage": "https://github.com/Jinsujin/web_3D#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-minify": "^0.5.1"
+  }
+}
